@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jackson-hong&show_icons=true&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackson-hong&layout=compact&theme=tokyonight)
+
 
 
 <!--
